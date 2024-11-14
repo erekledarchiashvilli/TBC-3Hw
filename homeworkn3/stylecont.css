@@ -1,0 +1,70 @@
+.logo {
+    vertical-align: middle;
+    margin-left: 123px;
+}
+
+a {
+    display: inline-block;
+    color: #8D81FF;
+    font-size: 26px;
+    font-weight: 700;
+    margin-left: 80px;
+}
+
+
+nav {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+header {
+    margin-bottom: 97px;
+    margin-top: 41px;
+}
+
+
+h1 {
+    font-weight: 700;
+    font-size: 36px;
+    color: #4E6FAE;
+    margin-left: 167px;
+    margin-bottom: 27px;
+
+}
+
+
+p {
+    color: #7E8898;
+    margin-left: 167px;
+    font-weight: 400;
+    font-size: 20px;
+    margin-bottom: 15px;
+
+}
+
+
+
+span {
+    color: #b8b1fc;
+}
+
+
+
+.map {
+    display: inline-block;
+    vertical-align: top;
+    width: 944px;
+} 
+
+.sec1 {
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+.sec2 {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 40px;
+}
